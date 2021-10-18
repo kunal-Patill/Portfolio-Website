@@ -1,4 +1,5 @@
 This is my portfolio website made with HTML, CSS & JAVASCRIPT. It includes the information which i would probably include in my resume. Hope you like it :)
+You can view the website at : https://kunal-patill.github.io/Portfolio-Website/
 
 ![1634136640011](https://user-images.githubusercontent.com/91950357/137158328-7452911b-4805-41af-83d1-2e00b412290a.jpg)
 ![1634136640025](https://user-images.githubusercontent.com/91950357/137158572-843dd942-be81-4689-b427-424914053659.jpg)
